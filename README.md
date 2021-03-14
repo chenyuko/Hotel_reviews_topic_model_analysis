@@ -3,3 +3,4 @@
 1) Rating of their hotels and competitors by location (Tableau dashboard: https://public.tableau.com/profile/yoyo2807#!/vizhome/Negratebytopic/Generalratingbyhotels?publish=yes) 
 2) Hotels' performance on each topics (also by reviews and keywords for more details).  (Tableau dashboard: https://public.tableau.com/profile/yoyo2807#!/vizhome/Negratebytopic/RatingbyTopic?publish=yes) 
 
+#### Data source: https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
